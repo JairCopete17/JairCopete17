@@ -1,6 +1,4 @@
-# Hello, I'm Jair Copete
-
-## I'm a Web Developer
+## Hello, I'm Jair Copete
 
 - 🌱 I am currently learning more about backend development.
 - 🔭 Currently in Second Year at Electronic Engineering.
